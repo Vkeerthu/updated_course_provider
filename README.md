@@ -49,7 +49,7 @@ You can deploy this website using various hosting services, such as GitHub Pages
 1. Navigate to the "Settings" tab of your repository.
 2. Scroll down to the "GitHub Pages" section.
 3. Choose the branch you want to deploy (e.g., `main`).
-4. Save the changes, and your site will be available at `https://your-username.github.io/infi-learn`.
+4. Save the changes, and your site will be available at `https://vkeerthu.github.io/updated_course_provider/`.
 
 ## Technologies Used
 
