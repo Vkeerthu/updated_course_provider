@@ -33,7 +33,7 @@ This website, built using HTML, CSS, and JavaScript, showcases the services offe
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/infi-learn.git`
+1. Clone the repository: `git clone https://github.com/Vkeerthu/infi-learn.git`
 2. Open the `index.html` file in a web browser.
 
 ## Usage
